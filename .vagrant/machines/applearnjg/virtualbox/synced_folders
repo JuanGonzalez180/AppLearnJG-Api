@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/applearnjg":{"type":null,"mount_options":["uid=1000","gid=1000"],"guestpath":"/home/vagrant/applearnjg","hostpath":"D:/Proyectos/learnjg/AppLearnJG","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"D:/Proyectos/learnjg/AppLearnJG","disabled":false,"__vagrantfile":true}}}
